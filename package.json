@@ -1,0 +1,20 @@
+{
+  "name": "kolokwium-1-twwai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kolokwium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node kolokwium.js",
+    "dev": "nodemon kolokwium.js"
+  },
+  "author": "Karol_Nowak_36782",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2",
+    "ejs": "3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.0"
+  }
+}
